@@ -1,0 +1,182 @@
+body{
+	font-family: "Tahoma";
+}
+
+.tagline{
+	font-size: 12px;
+	margin-left: 10px;
+}
+
+.success{
+	background-color: #82FFB8;
+	border: 1px solid #00BD52;
+	color: #004F22;
+	padding: 3px;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+.warning{
+	background-color: #FF9C9C;
+	border: 1px solid #D10000;
+	color: #B00000;
+	padding: 3px;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+.error{
+	
+}
+
+a{
+	color: #333;
+}
+
+.sidebar{
+	float: left;
+	width: 150px;
+	background-color: #BBB;
+	padding: 8px;
+	border-radius: 5px;
+}
+
+.postinfo{
+	font-size: 12px;
+}
+
+.postadmin{
+	font-size: 12px;
+}
+
+.singlepost{
+	background-color: #DDD;
+	padding: 10px;
+	border-radius: 8px;
+}
+
+.singlepost h2{
+	
+	font-size: 36px;
+	margin: 0;
+}
+
+.spcomments{
+	min-height: 80px;
+	background-color: #AAA;
+	padding-bottom: 1px;
+	border-radius: 3px;
+	padding: 5px;
+	margin-top: 10px;
+}
+
+.spcomments h3{
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+.spcomment{
+	background-color: #999;
+	margin: 3px;
+	margin-bottom:0px;
+	padding: 4px;
+	border-radius: 4px;
+	border: 1px solid #BBB;
+}
+
+.spcomment h4{
+	display: inline;
+	margin: 0px;
+}
+
+.page{
+	background-color: #CCC;
+	padding: 5px;
+	margin-right: 5px;
+	border-radius: 5px;
+	min-height: 400px;
+}
+
+.page h2{
+	margin: 0;
+}
+
+.searchbox{
+	font-size: 20px;
+}
+
+.spcommentdate{
+	font-size: 12px;
+}
+
+.pagination{
+	text-align: center;
+	width: auto;
+	margin-top: 10px;
+	margin-bottom: 100px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.paginationprev{
+	text-align: center;
+	float: left;
+	width: 100px;
+	padding: 4px;
+	background-color: #CCC;
+	border-radius: 4px;
+}
+
+.paginationnext{
+	float: right;
+	width: 100px;
+	padding: 4px;
+	background-color: #CCC;
+	border-radius: 4px;
+}
+
+.content{
+	margin-left: 180px;
+}
+
+h4{
+	margin: 0;
+}
+
+.post{
+	background-color: #D9D9D9;
+	padding: 5px;
+	margin-top: 10px;
+	border-radius: 5px;
+	margin-right: 10px;
+}
+
+.post h2{
+	margin: 0px;
+}
+
+.comments{
+	display: none;
+}
+
+.header{
+	margin-bottom: 20px;
+}
+
+.logo{
+	font-size: 36px;
+	width: 200px;
+}
+
+.logo a{
+	text-decoration: none;
+}
+
+.logo h1{
+	display: inline;
+}
+
+.search{
+	margin-left: auto;
+	float: right;
+}
