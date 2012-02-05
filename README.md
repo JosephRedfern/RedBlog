@@ -6,6 +6,6 @@ While I dont think there are any GAPING security flaws, I am by no stretch of th
 
 Installation
 ---------------
-There is no formal installer. Just copy the files to your web server, edit the settings.php file to match your mysql database details & the other could of options, and you should be good to go.
+There is no formal installer. Just copy the files to your web server, edit the settings.php file to match your mysql database details & the other couple of options, and you should be good to go.
 
 The redblog.sql file comes with an account for you to use - the username is "demo", and the password is... suprise suprise, "password". You should get rid of this account ASAP (or at the very least, change the password!).
