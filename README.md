@@ -1,6 +1,6 @@
 NOTE
 ====
-This is here for historical reasons, and is seriously outdates. All about the frameworks now, yo'! 
+This is here for historical reasons, and is seriously outdated. All about the frameworks now, yo'! 
 
 
 
