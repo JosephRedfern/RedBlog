@@ -1,3 +1,9 @@
+NOTE
+====
+This is here for historical reasons, and is seriously outdates. All about the frameworks now, yo'! 
+
+
+
 RedBlog
 ===============
 This is my CM1102 (Web Applications) coursework. I have decided to open source it under the GNU General Public License - although I didn't choose that license for any particular reason.
